@@ -1,6 +1,3 @@
-<!-- ⚡ Agie Ahmad | Elite Dev Futuristic GitHub Profile -->
-
-<!-- 🌌 Neon Animated Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Agieahmadd/Agieahmadd/main/assets/neon-wave.svg" width="100%" alt="Neon Wave Animation" />
 </p>
